@@ -11,3 +11,7 @@ This repository is the submission for Analysis Arena #001 hosted by Dose of Data
 - There is a negative correlation between `capture_rate` and `base_total` for ***non-legendary Pokémon*** suggesting that as the `capture_rate` increases, the `base_total` tends to decrease for non-legendary Pokémon.
 - ***legendary Pokémon*** shows a weak or no correlation between `capture_rate` and `base_total`. This suggests that the `base_total` of legendary Pokémon does not significantly change with `capture_rate`.
 - Dragon type Pokémon are the most strongest type of Pokémon second to Psychich then Fire type.
+
+**Contacts**
+- dicord - goutam_kul7371
+- linkedin - https://www.linkedin.com/in/goutam-munda-5b4554215/
